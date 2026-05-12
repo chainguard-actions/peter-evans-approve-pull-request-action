@@ -1,7 +1,7 @@
 {
   "owner": "peter-evans",
   "name": "approve-pull-request-action",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "A GitHub Action for approving pull requests.",
   "block_publish": false
 }
